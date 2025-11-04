@@ -9,8 +9,8 @@ import Homework04 from './homeworks/homeworks04/Homework04.jsx';
 function App() {
   return (
     <div className="App">
-      {/* <Homework04 />
-      <Lesson04 /> */}
+      <Homework04 />
+      <Lesson04 />
       {/* <Homework03 /> */}
       {/* <p>Der Shop</p>
       <div className="gallery">
