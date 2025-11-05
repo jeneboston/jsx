@@ -5,7 +5,7 @@
 // import Homework03 from './homeworks/homework03/homework03.jsx';
 import Lesson04 from './lessons/Lesson04/Lesson04.jsx';
 import Homework04 from './homeworks/homeworks04/Homework04.jsx';
-// import Homework05 from './homeworks/homework05/Homework05.jsx';
+import Homework05 from './homeworks/Homework05/Homework05.jsx';
 import Lesson05 from './lessons/Lesson05/Lesson05.jsx';
 
 
@@ -13,8 +13,8 @@ import Lesson05 from './lessons/Lesson05/Lesson05.jsx';
 function App() {
   return (
     <div className="App">
-      {/* <Homework05 /> */}
-      <Lesson05 />
+      <Homework05 />
+      {/* <Lesson05 /> */}
       {/* <Homework03 /> */}
       {/* <p>Der Shop</p>
       <div className="gallery">
